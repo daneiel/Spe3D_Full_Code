@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Raiz/Scripts/Commands.js">
+    <Files>
+      <File FileName="Assets/Raiz/Scripts/WinScene.js" Line="48" Column="2" />
+      <File FileName="Assets/Raiz/Scripts/GameOver.js" Line="51" Column="2" />
+      <File FileName="Assets/Raiz/Scripts/Pause.js" Line="51" Column="37" />
+      <File FileName="Assets/Raiz/Scripts/Commands.js" Line="56" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
